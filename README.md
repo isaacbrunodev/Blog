@@ -1,5 +1,7 @@
-# Criando uma aplicação rails pela documentação do rails 7.0
+# Criando um Blog seguindo a documentação oficial do rails 7.0
 # README
+![GIF Blog Rails](GIF-RC.gif.gif)
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
