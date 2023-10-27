@@ -1,6 +1,7 @@
 # Criando um Blog seguindo a documentação oficial do rails 7.0
 # README
 ![GIF Blog Rails](GIF-RC.gif.gif)
+![GIG Blog Rails](GIF-2.gif.gif)
 
 
 
